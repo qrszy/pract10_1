@@ -1,0 +1,16 @@
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\bin\Debug\parct10.1.exe.config
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\bin\Debug\parct10.1.exe
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\bin\Debug\parct10.1.pdb
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\obj\Debug\parct10.1.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\obj\Debug\parct10.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\obj\Debug\parct10.1.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\obj\Debug\parct10.1.exe
+C:\Users\st305a05\OneDrive\Документы\vagizanov\parct10.1\obj\Debug\parct10.1.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\bin\Debug\parct10.1.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\bin\Debug\parct10.1.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\bin\Debug\parct10.1.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\obj\Debug\parct10.1.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\obj\Debug\parct10.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\obj\Debug\parct10.1.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\obj\Debug\parct10.1.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\vagizanov\parct10.1\obj\Debug\parct10.1.pdb
